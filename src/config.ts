@@ -1,6 +1,7 @@
 import { BotConfig } from './structures/types'; 
 
 export const config: BotConfig = {
+    BloxlinkAPIKey: 0-0-0-0,
     groupId: 0,
     slashCommands: true,
     legacyCommands: {
